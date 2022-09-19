@@ -22,9 +22,15 @@ public class Javanew {
 		
 		System.out.println(mesaj.indexOf("ha"));
 		System.out.println(mesaj.lastIndexOf("e"));
+
+     
+		System.out.println(mesaj.substring(2,6));
+
+		
+		}
 		
 		
 
 	}
 
-}
+
